@@ -1,5 +1,5 @@
-# Hello! I'm Olubowale Salisu 👋  
-A results-driven Data Analyst with a foundation in Economics, I bring over a decade of experience in education, research, and data-informed decision-making. I help organizations uncover insights and make data-driven decisions that drive impact.
+ABOUT ME
+# Hello! I'm Olubowale Salisu a results-driven Data Analyst with a foundation in Economics, I bring over a decade of experience in education, research, and data-informed decision-making. I help organizations uncover insights and make data-driven decisions that drive impact.
 
 ## SKILLS  
 **Data Tools & Tech:** Excel · SQL · Tableau · Power BI · Business Intelligence  
@@ -27,6 +27,7 @@ A results-driven Data Analyst with a foundation in Economics, I bring over a dec
  
   **How I helped Cafe Harmony increase their Business Performance** 
   ![image](Screenshot (8).png)
+  
 - **Education & Academic Research**  
   Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
 
