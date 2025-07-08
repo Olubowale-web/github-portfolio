@@ -26,7 +26,7 @@ ABOUT ME
 
  
   **How I helped Cafe Harmony increase their Business Performance** 
-  ![image](Screenshot (8).png)
+  ![image](Screenshot (8).png)EXCEL CAPSTONE_PROJECT.pptx
   
 - **Education & Academic Research**  
   Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
