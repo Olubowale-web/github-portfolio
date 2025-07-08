@@ -30,6 +30,11 @@ ABOUT ME
   ![image](Screenshot (8).png)
   
   https://github.com/Olubowale-web/github-portfolio/raw/main/EXCEL%20CAPSTONE_PROJECT.pptx
+
+  ** Aurora Thread**
+
+  ![image](Screenshot 2025-05-20 011148.png)
+  
 - **Education & Academic Research**  
   Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
 
