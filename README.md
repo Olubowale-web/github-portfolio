@@ -24,10 +24,9 @@ A results-driven Data Analyst with a foundation in Economics, I bring over a dec
 ## MY PORTFOLIO  
 *Some highlights of my work and learning journey (links will open in LinkedIn or your own site).*
 
-- **Debt Analysis in Nigeria using BI Tools**  
-  Explored Nigeria’s rising external and internal debt trends using Power BI dashboards to visualize key metrics and policy insights.  
-  [Read my LinkedIn post](https://www.linkedin.com/posts/olubowale-salisu-95ab1b276_sadly-nigeria-external-and-internal-debt-activity-7138152549756407808-U7z5) :contentReference[oaicite:1]{index=1}
-
+ 
+  **How I helped Cafe Harmony increase their Business Performance** 
+  ![image](Screenshot (8).png)
 - **Education & Academic Research**  
   Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
 
