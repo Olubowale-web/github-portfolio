@@ -21,29 +21,25 @@ Hello! I'm Olubowale Salisu, a result-driven data analyst with a foundation in E
 
 ---
 
-## MY PORTFOLIO  
-*Some highlights of my work and learning journey (links will open in LinkedIn or your own site).*
+## MY PROFOLIO 
+*A glimpse of some of the projects I've been working on.*
 
- 
-  **How I helped Cafe Harmony increase their Business Performance** 
-  
+  **How I helped Cafe Harmony increase their Business Performance.**
+
   ![image](Screenshot (8).png)
   
   https://github.com/Olubowale-web/github-portfolio/raw/main/EXCEL%20CAPSTONE_PROJECT.pptx
 
-  ** Aurora Thread**
+**How I helped to provide a comprehensive overview of retail performance for Aurora Threads Boutique.**
 
   ![image](Screenshot 2025-05-20 011148.png)
 
-  [READ MORE] https://www.linkedin.com/feed/update/urn:li:activity:7348010768707076097/
+  [Read More] (https://www.linkedin.com/feed/update/urn:li:activity:7348010768707076097/)
   
 - **Education & Academic Research**  
-  Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
+  Earned an Masters in Applied Economics and Policy from the University of Windsor, Windsor,Ontario, Canada, a Ph.D in Economics from Caleb University, Imota, Ikorodu, Lagos. Nigeria, M.Sc. in Economics from University of Lagos, Nigeia, a B.Sc in Economics from Bowen University Iwo, Osun State, Nigeria and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos, Nigeria. 
 
-- **Graduation Achievement: YABATECH Distinction Project**  
-  Coached and supported students at Yaba College of Technology during a cohort with 254 distinctions out of 7,717 graduates :contentReference[oaicite:3]{index=3}.
 
-*(Feel free to add any GitHub-hosted notebooks, dashboards, or PDFs here.)*
 
 ---
 
@@ -52,7 +48,7 @@ Hello! I'm Olubowale Salisu, a result-driven data analyst with a foundation in E
 
 | | |
 |--|--|
-| 📧 | <your_email@example.com> |
+| 📧 | <salisuolubo@gmail.com> |
 | 🌐 | [LinkedIn](https://www.linkedin.com/in/olubowale-salisu) |
 | 📍 | Windsor, Ontario, Canada |
 
