@@ -1,7 +1,7 @@
-ABOUT ME
-# Hello! I'm Olubowale Salisu a results-driven Data Analyst with a foundation in Economics, I bring over a decade of experience in education, research, and data-informed decision-making. I help organizations uncover insights and make data-driven decisions that drive impact.
+## ABOUT ME
+Hello! I'm Olubowale Salisu, a result-driven data analyst with a foundation in Economics, I bring over a decade of experience in education, research, data informed decision making. I help organizations uncover insights and make data -driven decisions that drive impact.  
 
-## SKILLS  
+## SKILLS
 **Data Tools & Tech:** Excel · SQL · Tableau · Power BI · Business Intelligence  
 **Analytical & Soft Skills:** Research · Statistical Analysis · Data Visualization · Communication · Teaching & Mentoring
 
