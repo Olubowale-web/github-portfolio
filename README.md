@@ -34,6 +34,8 @@ Hello! I'm Olubowale Salisu, a result-driven data analyst with a foundation in E
   ** Aurora Thread**
 
   ![image](Screenshot 2025-05-20 011148.png)
+
+  [READ MORE] https://www.linkedin.com/feed/update/urn:li:activity:7348010768707076097/
   
 - **Education & Academic Research**  
   Earned an M.Sc. in Economics from University of Lagos and a Postgraduate Diploma in Education from Federal College of Education (Technical), Lagos — combining strong quantitative skills with pedagogical training :contentReference[oaicite:2]{index=2}.
